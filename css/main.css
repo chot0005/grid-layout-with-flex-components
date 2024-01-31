@@ -24,6 +24,10 @@ body {
     border-bottom: 2px solid #ccc;
 }
 
+.emoji p {
+    flex-grow: 1;
+}
+
 .emoji a {
     text-decoration: none;
     background-color: #781BAA;
